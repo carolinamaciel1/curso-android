@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="atmempresaconsultoria.thcborges.com.br.atmempresaconsultoria">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".EmpresaActivity"
+            android:label="@string/titulo_empresa" />
+        <activity
+            android:name=".ServicoActivity"
+            android:label="@string/titulo_servicos" />
+        <activity
+            android:name=".ClienteActivity"
+            android:label="@string/titulo_clientes" />
+        <activity android:name=".ContatoActivity"
+            android:label="@string/titulo_contato"/>
+    </application>
+
+</manifest>

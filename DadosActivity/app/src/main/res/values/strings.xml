@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dados Activity</string>
+    <string name="texto_botao">Passar dados</string>
+    <string name="texto_padrao">Texto padrão</string>
+</resources>

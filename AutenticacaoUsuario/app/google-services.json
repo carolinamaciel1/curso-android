@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "678604270769",
+    "firebase_url": "https://autenticacaofirebase-443be.firebaseio.com",
+    "project_id": "autenticacaofirebase-443be",
+    "storage_bucket": "autenticacaofirebase-443be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678604270769:android:db8e577b0e6edd5c",
+        "android_client_info": {
+          "package_name": "com.thcborges.autenticacaousuario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678604270769-ta20higkstqn1kvm8o64jufbmb22frn7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thcborges.autenticacaousuario",
+            "certificate_hash": "BF23790E4427A22C8C1A786CD879B32F467D6FAC"
+          }
+        },
+        {
+          "client_id": "678604270769-2c3dn0f3vb39tee80brk4drtu67a7pdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9amEN5e6L3QeKACsD2CSYMo_0j_eW9-0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678604270769-2c3dn0f3vb39tee80brk4drtu67a7pdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\thcbo\OneDrive\Cursos\Udemy\Android\Instagram\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\thcbo\OneDrive\Cursos\Udemy\Android\Instagram\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_5fc7e55736182d3935700c66ff9d5e64cc4f806f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thcbo\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\thcbo\OneDrive\Cursos\Udemy\Android\Instagram\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_12905440d9ba4e5f03c5b23ffbc4b39c3335577d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thcbo\OneDrive\Cursos\Udemy\Android\Instagram\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\thcbo\OneDrive\Cursos\Udemy\Android\Instagram\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.0_42a85b1084af5fd3b336047dc34ac1e16e29fe80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thcbo\OneDrive\Cursos\Udemy\Android\Instagram\ParseStarterProject\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1e60d207c15f116981b9b700f94fddf4f1d35a45">
+        <dex dex="C:\Users\thcbo\OneDrive\Cursos\Udemy\Android\Instagram\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9441d23546fb49a8d2dd242ced90a9f893593b18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thcbo\OneDrive\Cursos\Udemy\Android\Instagram\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\thcbo\OneDrive\Cursos\Udemy\Android\Instagram\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.0_413c5a2de7579ea162f2216af6c6cb209cd31044\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thcbo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\thcbo\OneDrive\Cursos\Udemy\Android\Instagram\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.0_1c956f57b1f3b1db893fccce93ab9e71a76282c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thcbo\OneDrive\Cursos\Udemy\Android\Instagram\ParseStarterProject\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e711c2d5965d81e39c33a9f3d366b10daaddaf31">
+        <dex dex="C:\Users\thcbo\OneDrive\Cursos\Udemy\Android\Instagram\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0807cdd17a8539daaf76f2a15df2f5bd9aed3bd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thcbo\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="C:\Users\thcbo\OneDrive\Cursos\Udemy\Android\Instagram\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\parse-android-1.13.0_0ee88636bb3ceb1606f3b349d8cc7146e44cef77\classes.dex" />
+    </item>
+
+</items>
