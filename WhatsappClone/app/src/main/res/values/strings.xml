@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Whatsapp</string>
+    <string name="cadastro_nome">Digite seu nome</string>
+    <string name="cadastro_email">Digite seu email</string>
+    <string name="cadastro_botao">Logar</string>
+    <string name="validacao_validacao">Validação</string>
+    <string name="validacao_texto">Você recebeu um SMS para validação do seu número, digite o código de verificação abaixo:</string>
+    <string name="validacao_codigo">Digite o código!</string>
+    <string name="validacao_botao">Validar</string>
+    <string name="cadastro_cod_pais">+55</string>
+    <string name="cadastro_cod_area">(11)</string>
+    <string name="cadastro_telefone">+55 (11) 99999-9999</string>
+    <string name="login_senha">Digite sua senha</string>
+    <string name="texto_cadastro">Não tem conta? Cadastre-se</string>
+    <string name="botao_cadastrar">Cadastrar</string>
+
+    <string name="item_cnfiguracoes">Configurações</string>
+    <string name="item_sair">Sair</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

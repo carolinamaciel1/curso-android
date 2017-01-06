@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shared Preferences</string>
+    <string name="pergunta">Qual o seu nome?</string>
+    <string name="hint">Digite seu nome</string>
+    <string name="boas_vindas">Olá, usuário não definido</string>
+    <string name="botao">Salvar</string>
+</resources>
